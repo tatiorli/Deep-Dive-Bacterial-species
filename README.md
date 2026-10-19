@@ -1,5 +1,4 @@
-# Deep-Dive-Bacterial-species
-# Bacteria Atlas
+# Bacteria Atlas - Build easily bacterial focused websites to highlight species of interest and deep dive into them in seconds
 
 Paste bacterial species names into a text file and get a static website: one page per species
 plus an index with a search box and a genome-size chart. Standard-library Python only.
