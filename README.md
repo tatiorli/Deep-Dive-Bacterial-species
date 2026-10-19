@@ -5,7 +5,6 @@ plus an index with a search box and a genome-size chart. Standard-library Python
 
 ```
 python build_site.py species.txt
-python build_site.py species.txt --out docs --title "Bacteria Atlas" --email me@lab.org
 ```
 
 Open `site/index.html`. Needs internet access when it runs. Results are cached in `.bacteria_cache/`
