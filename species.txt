@@ -1,0 +1,12 @@
+# One species per line. Blank lines and #comments are ignored.
+# Messy lines like "SKIPPED Cutibacterium acnes: no output yet" also work.
+Escherichia coli
+Bacillus subtilis
+Cutibacterium acnes
+Deinococcus radiodurans
+Brucella cytisi
+Phormidesmis priestleyi
+Mycobacterium hubeiense
+Corynebacterium canis
+Rubrimonas cliftonensis
+Allomeiothermus silvanus
